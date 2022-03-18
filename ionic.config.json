@@ -1,0 +1,8 @@
+{
+  "name": "Baby GrowsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3d91495b"
+}

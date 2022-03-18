@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Baby GrowsApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
